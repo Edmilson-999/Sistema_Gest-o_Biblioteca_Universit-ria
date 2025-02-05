@@ -55,7 +55,7 @@ npm install
 ### 3. Configurar variáveis de ambiente
 Crie um arquivo **.env** na raiz do projeto e configure as variáveis:
 ```env
-DATABASE_URL=postgres://usuario:senha@localhost:5432/nome_do_banco
+DATABASE_URL=sqlite://./database.sqlite
 JWT_SECRET=sua_chave_secreta
 ```
 
