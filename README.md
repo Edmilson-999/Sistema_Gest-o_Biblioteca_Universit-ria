@@ -55,7 +55,7 @@ npm install
 ### 3. Configurar variáveis de ambiente
 Crie um arquivo **.env** na raiz do projeto e configure as variáveis:
 ```env
-DATABASE_URL=sqlite://./database.sqlite
+DATABASE_URL=sqlite://./biblioteca.sqlite
 JWT_SECRET=sua_chave_secreta
 ```
 
