@@ -43,7 +43,7 @@ Este é um sistema de gestão para bibliotecas universitárias, desenvolvido com
 
 ### 1. Clonar o repositório
 ```sh
-[git clone https://github.com/seu-usuario/sistem.git](https://github.com/Edmilson-999/Sistema_Gest-o_Biblioteca_Universit-ria.git)
+[git clone https://github.com/Edmilson-999/Sistema_Gest-o_Biblioteca_Universit-ria.git)
 cd Gest-o_Biblioteca_Universit-ria
 ```
 
